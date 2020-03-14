@@ -24,5 +24,7 @@ See the [Dockerfile](Dockerfile) and list of the tested versions: https://htmlpr
 
 # What to do next
 
+See the quickstart demo here: https://htmlpreview.github.io/?https://raw.githubusercontent.com/cmu-sei/SCALe/master/scale.app/public/doc/SCALe2/SCALe-Quick-Start-Demo-for-Auditors_215846628.html
+
 TODO
 
