@@ -8,8 +8,10 @@ I found the following document in the repo and followed the instructions: https:
 
 ```
 $ docker build -t cmu_sei_scale .
-$ docker run --name scale -it -p 8080:8080 cmu_sei_scale
+$ docker run --name scale -it -d -p 8080:8080 cmu_sei_scale
 ```
+
+You can check if it's running by `$ docker ps`
 
 Then open http://localhost:8080/.
 
