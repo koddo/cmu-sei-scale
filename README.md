@@ -18,7 +18,9 @@ Password: `111`
 
 ## Comment on the old dependencies
 
-The dependencies for this project are quite outdated, ruby 2.3 is not even listed as an option on dockerhub. The project uses old rails, which might require updating.
+The dependencies for this project are quite outdated, ruby 2.3 is not even listed as an option on dockerhub. The project uses old rails, which might require updating, and using it might be quirky. If anything breaks, this is probably because of version mismatch.
+
+See the [Dockerfile](Dockerfile) and list of the tested versions: https://htmlpreview.github.io/?https://raw.githubusercontent.com/cmu-sei/SCALe/master/scale.app/public/doc/SCALe2/Installing-the-SCALe-Web-App-on-64-bit-XUbuntu-16.04---Online_215846601.html
 
 # What to do next
 
